@@ -1,4 +1,4 @@
-![Ultrakill skull](LaughingSkull.gif)
+<img height="200" width="200" src="LaughingSkull.gif" />
 
 # STATUS UPDATE
 
