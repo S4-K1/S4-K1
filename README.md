@@ -7,8 +7,8 @@
 |LOCATION:|APPROACHING HELL|
 |CURRENT OBJECTIVE:|FIND A WEAPON|
 
-**MANKIND IS DEAD.**
+<span style='color:red'>**MANKIND IS DEAD.**</span>
 
-**BLOOD IS FUEL.**
+<span style='color:red'>**BLOOD IS FUEL.**</span>
 
-**HELL IS FULL.**
+<span style='color:red'>**HELL IS FULL.**</span>
