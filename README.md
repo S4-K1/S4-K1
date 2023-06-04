@@ -1,3 +1,5 @@
+![Ultrakill skull](LaughingSkull.gif)
+
 # STATUS UPDATE
 
 |MACHINE ID:|V1|
